@@ -1,3 +1,4 @@
+/** Add all exported modules here */
 export * from "./errors/BadRequestError";
 export * from "./errors/custom-error";
 export * from "./errors/database-connection-error";
