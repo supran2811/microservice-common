@@ -21,7 +21,7 @@ export abstract class Listener<T extends Event> {
    *
    * setDeliverAllAvailable()
    * It delivers all messages when service goes up first time
-   *
+   * And
    * setDurableName
    * nats will store the messages which
    * are not acked so that it can redliver
