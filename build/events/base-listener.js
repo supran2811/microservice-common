@@ -10,7 +10,7 @@ var Listener = /** @class */ (function () {
      *
      * setDeliverAllAvailable()
      * It delivers all messages when service goes up first time
-     *
+     * And
      * setDurableName
      * nats will store the messages which
      * are not acked so that it can redliver
